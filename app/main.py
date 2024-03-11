@@ -1,4 +1,4 @@
-from helper import helper
+from .helper import helper
 
 def main():
     print ("Hello from the main file")

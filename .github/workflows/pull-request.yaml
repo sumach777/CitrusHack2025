@@ -1,4 +1,4 @@
-name: Discord Python Hackpack
+name: Python Hackpack
 
 on:
   pull_request:

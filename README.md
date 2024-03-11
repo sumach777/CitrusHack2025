@@ -33,8 +33,7 @@ poetry remove <dependency>
 ### Running the Code Locally
 
 ```bash
-cd app/
-poetry run python main.py
+poetry run app
 ```
 
 ### Formatting Code via YAPF

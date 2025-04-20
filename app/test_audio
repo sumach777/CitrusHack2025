@@ -1,2 +1,0 @@
-from audioprocessing import AudioProcessor
-app = AudioProcessor()

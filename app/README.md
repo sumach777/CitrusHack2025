@@ -1,7 +1,7 @@
 # EQLZR - Audio Equalizer Application
 
 ## Description
-EQLZR is a Python-based audio equalizer application with a modern GUI interface built using Tkinter. The application provides basic audio processing capabilities with easy volume control and an ON/OFF toggle function.
+EQLZR is a Python-based audio equalizer Windows-only desktop application with a modern GUI interface built using Tkinter. The application provides basic audio processing capabilities with easy volume control and an ON/OFF toggle function.
 
 ## Usage:
 1. Navigate to "releases" and download the zip file containing the app.

@@ -3,6 +3,10 @@ EQLZR - Audio Equalizer Application
 Description
 EQLZR is a Python-based audio equalizer application with a modern GUI interface built using Tkinter. The application provides basic audio processing capabilities with volume control and an ON/OFF toggle function.
 
+Usage:
+1. Download the zip file containing the app.
+2. Extract the executable from the zip file.
+
 Features
 Volume Control: Adjust audio levels from 1-100
 

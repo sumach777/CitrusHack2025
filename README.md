@@ -12,6 +12,10 @@ EQLZR is a Python-based audio equalizer Windows-only desktop application with a 
 6. A terminal window and the app's popup window will show up.
 7. Expand the popup window and enjoy!
 
+## Creating your own executable:
+'''1. pip install pyinstaller
+   2. run pyinstaller --onefile --windowed main.py'''
+
 ## Features
 Volume Control: Adjust audio levels from 1-100. Min volume is -35 dB while max volume is -5 dB.
 
@@ -28,6 +32,7 @@ PyCaw
 Sounddevice
 Ctypes
 Comtypes
+Windows Core Audio API
 
 
 ## Language(s) Used 

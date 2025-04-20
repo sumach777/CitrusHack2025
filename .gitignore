@@ -2,3 +2,7 @@
 poetry.lock
 app/__pycache__
 dist/
+build/
+.next/
+venv/
+__pycache__/

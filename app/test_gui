@@ -1,0 +1,8 @@
+from gui import AudioApp
+a_app = AudioApp()
+root = a_app.create_window()
+root.mainloop()
+
+'''from audioprocessing import AudioProcessor
+app = AudioProcessor(a_app)
+app.process_audio()'''

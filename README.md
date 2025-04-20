@@ -14,8 +14,8 @@ EQLZR is a Python-based audio equalizer Windows-only desktop application with a 
 
 ## Creating your own executable:
 ```
-1. pip install pyinstaller
-2. run pyinstaller --onefile --windowed main.py
+pip install pyinstaller
+run pyinstaller --onefile --windowed main.py
 ```
 
 ## Features
